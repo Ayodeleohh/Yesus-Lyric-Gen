@@ -16,9 +16,10 @@ Kanye uses the 4-word ngram “Way I wanted to”, “I’m not loving you”, a
 Verse Generation:
 I was able to generate some interesting verses from his past lyrics. 
 
-![mostfly](https://ayodeleohh.imgur.com/all/)
+![mostfly](https://i.imgur.com/jfDrksC.png)
 ![redbull](https://i.imgur.com/MS27dKJ.png)
 
 I was also able to create a verse starting with a particular word or phrase. In this case I chose Donald Trump.
-![trump](https://imgur.com/DIspAwv)
+After all of ye's shennanigans as a "Trump supporter" I thought this was interesting based on his past lyrics.
+![trump](https://i.imgur.com/DIspAwv.png)
 
